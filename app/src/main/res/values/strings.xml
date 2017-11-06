@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PocketFix</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_about">About</string>
+    <string name="action_load">Load</string>
+    <string name="action_new">New</string>
+    <string name="action_remove">Remove</string>
+    <string name="action_accept">Accept</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <string name="totalPaidTV">Total Paid:</string>
+    <string name="euroCurrency">0 Rs.</string>
+    <string name="nameTV">Name:</string>
+    <string name="paidTV">Paid:</string>
+    <string name="addPersonButton">Add</string>
+    <string name="remPersonButton">Rem</string>
+    <string name="submitButton">Submit</string>
+    <string name="productNameTV">Name:</string>
+    <string name="productCostTV">Cost:</string>
+    <string name="unityRB">per unity</string>
+    <string name="kgRB">per kG</string>
+    <string name="quantityTV">Quantity:</string>
+    <string name="checkbox">Name</string>
+    <string name="percentageTV">50%</string>
+    <string name="nextButton">ADD</string>
+    <string name="endButton">END</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="resultTV">Placeholder</string>
+    <string name="restartB">Restart</string>
+    <string name="units">units</string>
+    <string name="fixButton">Fix previous product</string>
+    <string name="title_activity_list_products">ListProductsActivity</string>
+    <string name="remProdButton">REMOVE</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="about0">About</string>
+    <string name="about1">Made by Kritika Srivastava</string>
+    <string name="about2">Sneha Kapoor</string>
+    <string name="about3">Amit Nath Singh</string>
+
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="action_contact">Contact</string>
+
+    <string name="contact1">Dev contact: heyjack7@gmail.com</string>
+    <string name="contact2">Please email me with any kind of feedback (critics, tips, bugs, etc)</string>
+    <string name="contact3">You can also support me by clicking the ads =)</string>
+
+</resources>
